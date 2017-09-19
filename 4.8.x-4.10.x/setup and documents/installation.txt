@@ -1,0 +1,21 @@
+------------------------------------------
+OXID-Modul "Variant Thumbnail Extension"
+------------------------------------------
+
+OXID eShop: Extension for Module Multifilter XL: Load Article Thumbnail according to attributefilters
+
+http://www.zunderweb.de
+
+Frank Zunderer
+Waldstr. 22
+82205 Gilching
+Tel.: +49-8105-777250
+e-Mail: info@zunderweb.de
+
+
+Requirements: OXID Version 4.8.0 or higher, Module "Ajax Multifilter XL" by zunderweb
+
+Installation:
+-------------
+1) Please copy the content of the folder "copy_this" to your shop
+2) Activate Module
